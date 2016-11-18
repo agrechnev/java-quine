@@ -1,0 +1,1 @@
+class B{public static void main(String[]a){String[]s={"class B{public static void main(String[]a){String[]s={","};char q=34;System.out.print(s[0]+q+s[0]+q+','+q+s[1]+q+s[1]);}}"};char q=34;System.out.print(s[0]+q+s[0]+q+','+q+s[1]+q+s[1]);}}
